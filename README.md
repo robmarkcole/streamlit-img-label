@@ -22,6 +22,9 @@ python app.py
 
 - [streamlit-cropper](https://github.com/turner-anderson/streamlit-cropper)
 
-## Donation
+## Dev
 
-If you think this project is cool, please consider [buying me a coffee](https://www.paypal.com/paypalme/TIANNINGL/)
+* `python3 -m venv venv`
+* `source venv/bin/activate`
+* `(venv) pip install -r requirements.txt`
+* `(venv) streamlit run app.py`
