@@ -1,2 +1,5 @@
 venv*
 *.pyc
+streamlit_img_label/frontend/package-lock.json
+img_dir/*.xml
+streamlit_img_label.egg-info*

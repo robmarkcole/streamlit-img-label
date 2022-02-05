@@ -26,5 +26,5 @@ python app.py
 
 * `python3 -m venv venv`
 * `source venv/bin/activate`
-* `(venv) pip install -r requirements.txt`
+* `(venv) pip install -r requirements.txt` or `(venv) pip install -e .`
 * `(venv) streamlit run app.py`
