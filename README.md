@@ -3,7 +3,7 @@
 streamlit-img-label is a graphical image annotation tool using streamlit. Annotations are saved as XML files in PASCAL VOC format.
 
 ## Installation
-
+It is necessary to build the frontend - from within the `frontend` dir run `npm run build`
 In your python virtual environment, run:
 
 ```sh
